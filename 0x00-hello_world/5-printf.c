@@ -1,4 +1,5 @@
 #include<stido.h>
+#include<time.h>
 /**
  * main - A program that prints a line using the printf function
  * Return: 0 (success)
